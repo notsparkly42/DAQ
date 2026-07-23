@@ -1,4 +1,5 @@
-Actividaad de Reclutamiento – DAQ
+Actividad de Reclutamiento – DAQ
+    
 Nombre: Morales Paredes Eric Aaron
 
 Este repositorio contiene las dos actividades que realicé para Adquisición de Datos (DAQ). El objetivo es demostrar cómo proteger los sistemas del monoplaza y cómo analizar los datos que junta mientras esta en la pista.
